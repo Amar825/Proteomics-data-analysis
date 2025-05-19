@@ -1,4 +1,4 @@
-# Protromics-data-analysis: iPOP Study- {atient Z
+# Protromics-data-analysis: iPOP Study- Patient Z
 This project explores proteomics data from the Integrated Personal Omics Profiling (iPOP) study conducted at Stanford University. The iPOP study is a pioneering effort in longitudinal omics profiling aimed at personalizing precision medicine. Here, we focus specifically on Patient Z, analyzing protein abundance patterns during an infection and recovery phase.
 
 ## Background
